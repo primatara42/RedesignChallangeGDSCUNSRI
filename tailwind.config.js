@@ -12,7 +12,8 @@ module.exports = {
         "-sm": { min: "639px" },
       },
       colors: {
-        "gdsc-color-blue": '#4385F3'
+        "gdsc-color-blue": '#4385F3',
+        "bg-color-gdsc": '#333333',
       },
       backgroundImage: {
         'hero': "url('/src/images/banner(1).png')",
