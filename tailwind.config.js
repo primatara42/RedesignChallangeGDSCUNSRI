@@ -13,6 +13,9 @@ module.exports = {
       },
       colors: {
         "gdsc-color-blue": '#4385F3',
+        "gdsc-color-green": '#109D58',
+        "gdsc-color-yellow": '#FABC05',
+        "gdsc-color-red": '#E94436',
         "bg-color-gdsc": '#333333',
       },
       backgroundImage: {
