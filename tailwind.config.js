@@ -14,6 +14,9 @@ module.exports = {
       colors: {
         "gdsc-color-blue": '#4385F3'
       },
+      backgroundImage: {
+        'hero': "url('/src/images/banner(1).png')",
+      },
     },
   },
   plugins: [],
